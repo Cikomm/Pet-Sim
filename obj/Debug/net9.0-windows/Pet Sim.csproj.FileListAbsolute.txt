@@ -1,0 +1,41 @@
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\bin\Debug\net9.0-windows\Pet Sim.exe
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\bin\Debug\net9.0-windows\Pet Sim.deps.json
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\bin\Debug\net9.0-windows\Pet Sim.runtimeconfig.json
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\bin\Debug\net9.0-windows\Pet Sim.dll
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\bin\Debug\net9.0-windows\Pet Sim.pdb
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\App.g.cs
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim_MarkupCompile.cache
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim_MarkupCompile.lref
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim.g.resources
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim.AssemblyInfoInputs.cache
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim.AssemblyInfo.cs
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim.csproj.CoreCompileInputs.cache
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim.dll
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\refint\Pet Sim.dll
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim.pdb
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\Pet Sim.genruntimeconfig.cache
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\ref\Pet Sim.dll
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet Sim\obj\Debug\net9.0-windows\App.baml
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\bin\Debug\net9.0-windows\Pet Sim.exe
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\bin\Debug\net9.0-windows\Pet Sim.deps.json
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\bin\Debug\net9.0-windows\Pet Sim.runtimeconfig.json
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\bin\Debug\net9.0-windows\Pet Sim.dll
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\bin\Debug\net9.0-windows\Pet Sim.pdb
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\App.g.cs
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim_MarkupCompile.cache
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim_MarkupCompile.lref
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim.g.resources
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim.AssemblyInfoInputs.cache
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim.AssemblyInfo.cs
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim.csproj.CoreCompileInputs.cache
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim.dll
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\refint\Pet Sim.dll
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim.pdb
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\Pet Sim.genruntimeconfig.cache
+D:\Felix\Spiele\Coding\Programmieren ohne Plan\Pet_Sim\obj\Debug\net9.0-windows\ref\Pet Sim.dll
