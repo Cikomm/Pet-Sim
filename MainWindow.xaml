@@ -1,0 +1,28 @@
+﻿<Window x:Class="Pet_Sim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pet_Sim"
+        mc:Ignorable="d"
+        Title="Pet Sim" Height="1080" Width="1920">
+    <Grid Background="Aquamarine">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="779*"/>
+            <ColumnDefinition Width="22*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="imgPet" HorizontalAlignment="Left" Height="814" VerticalAlignment="Top" Width="1063" Source="/Images/pet.png" RenderTransformOrigin="0.5,0.5" Margin="599,229,0,0">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="btnFeed" Content="Feed" FontSize="36" HorizontalAlignment="Center" Margin="0,879,0,0" VerticalAlignment="Top" Width="202" Height="85" Click="btnFeed_Click"/>
+        <TextBlock x:Name="txtNameTag" HorizontalAlignment="Left" Margin="868,618,0,0" TextWrapping="Wrap" Text="Nico" VerticalAlignment="Top" Height="50" Width="92" FontSize="36" FontWeight="Bold" Foreground="Purple" Background="DimGray"/>
+        <TextBlock x:Name="txtHunger" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Hunger: 100" VerticalAlignment="Top" Height="50" Width="287" FontSize="36" FontWeight="Bold" Foreground="Black"/>
+    </Grid>
+</Window>
